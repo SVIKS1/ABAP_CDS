@@ -1,0 +1,5 @@
+@EndUserText.label: 'Flight Service'
+define service ZSVIKS_FLIGHT_SERVICE {
+  expose zi_sviks_flight_001;
+  expose zi_sviks_flight_inf_001;
+}
